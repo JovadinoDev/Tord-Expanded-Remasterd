@@ -39,3 +39,6 @@ You can chart whatever you want intill the game broke.
 ![A](https://user-images.githubusercontent.com/86385501/138571966-9323c3ac-c158-4a71-82b4-94bd49b7684f.png)
 
 And than get a rare screen. and share the rare screen to your friends (Like i did)
+Btw this mod is related to Eddsworld![gang](https://user-images.githubusercontent.com/86385501/138572020-d9ea5625-4231-47a3-b086-57168013c25d.png)
+
+The engine that this mod use is PsychEngine.
